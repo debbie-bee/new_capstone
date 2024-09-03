@@ -1,0 +1,165 @@
+2024-08-16 03:31:27 INFO this is a info message
+2024-08-16 03:31:27 WARNING this is a warning message
+2024-08-16 03:31:27 ERROR this is a error message
+2024-08-16 03:31:27 CRITICAL this is a critical message
+2024-08-16 03:33:16 INFO this is a info message
+2024-08-16 03:33:16 WARNING this is a warning message
+2024-08-16 03:33:16 ERROR this is a error message
+2024-08-16 03:33:16 CRITICAL this is a critical message
+2024-08-16 03:33:24 INFO this is a info message
+2024-08-16 03:33:24 WARNING this is a warning message
+2024-08-16 03:33:24 ERROR this is a error message
+2024-08-16 03:33:24 CRITICAL this is a critical message
+2024-08-16 03:33:26 INFO this is a info message
+2024-08-16 03:33:26 WARNING this is a warning message
+2024-08-16 03:33:26 ERROR this is a error message
+2024-08-16 03:33:26 CRITICAL this is a critical message
+2024-08-16 03:34:50 INFO this is a info message
+2024-08-16 03:34:50 WARNING this is a warning message
+2024-08-16 03:34:50 ERROR this is a error message
+2024-08-16 03:34:50 CRITICAL this is a critical message
+2024-08-16 03:34:52 INFO this is a info message
+2024-08-16 03:34:52 WARNING this is a warning message
+2024-08-16 03:34:52 ERROR this is a error message
+2024-08-16 03:34:52 CRITICAL this is a critical message
+2024-08-16 03:36:13 INFO this is a info message
+2024-08-16 03:36:13 WARNING this is a warning message
+2024-08-16 03:36:13 ERROR this is a error message
+2024-08-16 03:36:13 CRITICAL this is a critical message
+2024-08-16 03:36:16 INFO this is a info message
+2024-08-16 03:36:16 WARNING this is a warning message
+2024-08-16 03:36:16 ERROR this is a error message
+2024-08-16 03:36:16 CRITICAL this is a critical message
+2024-08-16 03:36:27 INFO this is a info message
+2024-08-16 03:36:27 WARNING this is a warning message
+2024-08-16 03:36:27 ERROR this is a error message
+2024-08-16 03:36:27 CRITICAL this is a critical message
+2024-08-16 03:36:30 INFO this is a info message
+2024-08-16 03:36:30 WARNING this is a warning message
+2024-08-16 03:36:30 ERROR this is a error message
+2024-08-16 03:36:30 CRITICAL this is a critical message
+2024-08-16 03:36:32 INFO this is a info message
+2024-08-16 03:36:32 WARNING this is a warning message
+2024-08-16 03:36:32 ERROR this is a error message
+2024-08-16 03:36:32 CRITICAL this is a critical message
+2024-08-16 03:36:41 INFO this is a info message
+2024-08-16 03:36:41 WARNING this is a warning message
+2024-08-16 03:36:41 ERROR this is a error message
+2024-08-16 03:36:41 CRITICAL this is a critical message
+2024-08-16 03:55:15 INFO this is a info message
+2024-08-16 03:55:15 WARNING this is a warning message
+2024-08-16 03:55:15 ERROR this is a error message
+2024-08-16 03:55:15 CRITICAL this is a critical message
+2024-08-16 03:55:50 INFO this is a info message
+2024-08-16 03:55:50 WARNING this is a warning message
+2024-08-16 03:55:50 ERROR this is a error message
+2024-08-16 03:55:50 CRITICAL this is a critical message
+2024-08-16 04:06:14 INFO this is a info message
+2024-08-16 04:06:14 WARNING this is a warning message
+2024-08-16 04:06:14 ERROR this is a error message
+2024-08-16 04:06:14 CRITICAL this is a critical message
+2024-08-16 04:20:52 INFO this is a info message
+2024-08-16 04:20:52 WARNING this is a warning message
+2024-08-16 04:20:52 ERROR this is a error message
+2024-08-16 04:20:52 CRITICAL this is a critical message
+2024-08-16 04:23:17 WARNING (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\USER\Downloads\Video\chatgpt api\env\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2024-08-16 04:38:44 INFO this is a info message
+2024-08-16 04:38:44 WARNING this is a warning message
+2024-08-16 04:38:44 ERROR this is a error message
+2024-08-16 04:38:44 CRITICAL this is a critical message
+2024-08-16 04:38:53 INFO this is a info message
+2024-08-16 04:38:53 WARNING this is a warning message
+2024-08-16 04:38:53 ERROR this is a error message
+2024-08-16 04:38:53 CRITICAL this is a critical message
+2024-08-16 10:00:37 INFO this is a info message
+2024-08-16 10:00:37 WARNING this is a warning message
+2024-08-16 10:00:37 ERROR this is a error message
+2024-08-16 10:00:37 CRITICAL this is a critical message
+2024-08-16 10:04:23 INFO this is a info message
+2024-08-16 10:04:23 WARNING this is a warning message
+2024-08-16 10:04:23 ERROR this is a error message
+2024-08-16 10:04:23 CRITICAL this is a critical message
+2024-08-16 10:05:50 INFO creating user.......
+2024-08-16 10:05:50 WARNING (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python311\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2024-08-16 10:08:47 INFO getting user....
+2024-08-16 10:08:47 ERROR the email or password is incorrect
+2024-08-16 10:08:48 INFO getting user....
+2024-08-16 10:08:48 ERROR the email or password is incorrect
+2024-08-16 10:08:53 INFO getting user....
+2024-08-16 10:08:53 ERROR the email or password is incorrect
+2024-08-16 10:09:09 INFO getting user....
+2024-08-16 10:09:09 ERROR the email or password is incorrect
+2024-08-16 10:09:14 INFO getting user....
+2024-08-16 10:09:14 ERROR the email or password is incorrect
+2024-08-16 13:09:38 INFO this is a info message
+2024-08-16 13:09:38 WARNING this is a warning message
+2024-08-16 13:09:38 ERROR this is a error message
+2024-08-16 13:09:38 CRITICAL this is a critical message
+2024-08-16 13:16:01 INFO this is a info message
+2024-08-16 13:16:01 WARNING this is a warning message
+2024-08-16 13:16:01 ERROR this is a error message
+2024-08-16 13:16:01 CRITICAL this is a critical message
+2024-08-16 13:16:54 INFO this is a info message
+2024-08-16 13:16:54 WARNING this is a warning message
+2024-08-16 13:16:54 ERROR this is a error message
+2024-08-16 13:16:54 CRITICAL this is a critical message
+2024-08-16 13:16:59 INFO this is a info message
+2024-08-16 13:16:59 WARNING this is a warning message
+2024-08-16 13:16:59 ERROR this is a error message
+2024-08-16 13:16:59 CRITICAL this is a critical message
+2024-08-16 13:18:09 INFO this is a info message
+2024-08-16 13:18:09 WARNING this is a warning message
+2024-08-16 13:18:09 ERROR this is a error message
+2024-08-16 13:18:09 CRITICAL this is a critical message
+2024-08-16 13:18:42 INFO this is a info message
+2024-08-16 13:18:42 WARNING this is a warning message
+2024-08-16 13:18:42 ERROR this is a error message
+2024-08-16 13:18:42 CRITICAL this is a critical message
+2024-08-16 13:22:32 INFO this is a info message
+2024-08-16 13:22:32 WARNING this is a warning message
+2024-08-16 13:22:32 ERROR this is a error message
+2024-08-16 13:22:32 CRITICAL this is a critical message
+2024-08-16 14:54:35 INFO this is a info message
+2024-08-16 14:54:35 WARNING this is a warning message
+2024-08-16 14:54:35 ERROR this is a error message
+2024-08-16 14:54:35 CRITICAL this is a critical message
+2024-08-16 15:07:03 INFO creating user.......
+2024-08-16 15:11:30 INFO this is a info message
+2024-08-16 15:11:30 WARNING this is a warning message
+2024-08-16 15:11:30 ERROR this is a error message
+2024-08-16 15:11:30 CRITICAL this is a critical message
+2024-08-16 15:11:34 INFO this is a info message
+2024-08-16 15:11:34 WARNING this is a warning message
+2024-08-16 15:11:34 ERROR this is a error message
+2024-08-16 15:11:34 CRITICAL this is a critical message
+2024-08-16 15:12:08 INFO this is a info message
+2024-08-16 15:12:08 WARNING this is a warning message
+2024-08-16 15:12:08 ERROR this is a error message
+2024-08-16 15:12:08 CRITICAL this is a critical message
+2024-08-16 15:12:14 INFO this is a info message
+2024-08-16 15:12:14 WARNING this is a warning message
+2024-08-16 15:12:14 ERROR this is a error message
+2024-08-16 15:12:14 CRITICAL this is a critical message
+2024-08-16 18:16:27 INFO this is a info message
+2024-08-16 18:16:27 WARNING this is a warning message
+2024-08-16 18:16:27 ERROR this is a error message
+2024-08-16 18:16:27 CRITICAL this is a critical message
+2024-08-17 20:03:15 INFO this is a info message
+2024-08-17 20:03:15 WARNING this is a warning message
+2024-08-17 20:03:15 ERROR this is a error message
+2024-08-17 20:03:15 CRITICAL this is a critical message
+2024-08-17 20:05:46 INFO creating user.......
+2024-08-19 23:18:49 INFO this is a info message
+2024-08-19 23:18:49 WARNING this is a warning message
+2024-08-19 23:18:49 ERROR this is a error message
+2024-08-19 23:18:49 CRITICAL this is a critical message
